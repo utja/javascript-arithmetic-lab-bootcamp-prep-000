@@ -10,4 +10,6 @@ function multiply(a,b) {
   return a * b
 }
 
-fimc
+function divide(a,b) {
+  return a ? b
+}
